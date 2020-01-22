@@ -8,5 +8,9 @@ __Prior to discussing the dataset in further detail, a quick run-down of relevan
  
 <p align="center">
    NFL Football Field Representation
+ </p>
+ 
+<p align="center">
+   NFL Football Field Representation
   <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AmFBfield.svg/400px-AmFBfield.svg.png">
 </p>
