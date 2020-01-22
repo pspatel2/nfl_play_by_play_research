@@ -6,7 +6,7 @@ __Prior to discussing the dataset in further detail, a quick run-down of relevan
 * Pass vs Run play:  A pass play is when the ball is thrown in the air to progress the ball forward versus a run play is when the ball is handed-off (or kept by the quarterback) and is attempted to be moved upfield by running.
 * Shotgun: In the shotgun, instead of the quarterback receiving the snap from center at the line of scrimmage, he stands farther behind the line of scrimmage.
  
- __NFL Football Field Representation__
 <p align="center">
+   NFL Football Field Representation
   <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AmFBfield.svg/400px-AmFBfield.svg.png">
 </p>
