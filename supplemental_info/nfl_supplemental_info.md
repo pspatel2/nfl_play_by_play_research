@@ -7,10 +7,9 @@ __Prior to discussing the dataset in further detail, a quick run-down of relevan
 * Shotgun: In the shotgun, instead of the quarterback receiving the snap from center at the line of scrimmage, he stands farther behind the line of scrimmage.
  
 <p align="center">
-   NFL Football Field Representation
+   <b>NFL Football Field Representation</b>
  </p>
  
 <p align="center">
-   NFL Football Field Representation
   <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AmFBfield.svg/400px-AmFBfield.svg.png">
 </p>
