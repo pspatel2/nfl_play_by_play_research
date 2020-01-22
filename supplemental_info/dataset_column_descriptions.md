@@ -1,4 +1,4 @@
-## A description of each of the columns is as follows
+## Description of the columns utilized in the NFL tendency analysis
 
 *	game_date: simply the date of the game corresponding to the given data row
 *	yardline_100: This field was generated to improve interpretability of field position for a machine/computer. The value is set to where a team is on the field between 0 – 100.  For example, a value of 80 would mean you are on the opponent’s 20 yard-line or 20 yards away from the goal-line the team is trying to score at
